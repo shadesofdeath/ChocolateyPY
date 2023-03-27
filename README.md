@@ -23,7 +23,7 @@
   There are separate structures in English and Turkish as a language, both versions have the same features, the only difference is the language.
 </p>
 
-<h2 align="center">Screenshots</h2>
+<h2 align="center">📸 Screenshots</h2>
 <p align="center">
   <img src="https://github.com/shadesofdeath/ChocolateyPY/raw/main/screenshots/Screenshot_1.png">
 </p>
