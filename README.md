@@ -2,7 +2,9 @@
 
 # ChocolateyPY
 
-![enter image description here](https://github.com/shadesofdeath/ChocolateyPY/raw/main/logo.ico)
+<p align="center">
+  <img src="https://github.com/shadesofdeath/ChocolateyPY/raw/main/logo.ico" width="200" height="200">
+</p>
 
 **[English](https://github.com/shadesofdeath/ChocolateyPY/blob/main/README.md) - [Turkish](https://github.com/shadesofdeath/ChocolateyPY/blob/main/README-TR.md)**
 
