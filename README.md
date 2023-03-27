@@ -6,11 +6,13 @@
   <b><a href="https://github.com/shadesofdeath/ChocolateyPY/blob/main/README.md">English</a> - <a href="https://github.com/shadesofdeath/ChocolateyPY/blob/main/README-TR.md">Turkish</a></b>
 </p>
 
+<h2 align="center">⚠️Abouth</h2>
+
 <p align="center">
   Using the Chocolatey package manager, you can automatically download and install the desired application on your computer and get it ready. All you have to do is enter the application name and click the search button. Select one of the packages from the list and confirm and wait for the application to be downloaded and installed.
 </p>
 
-<h2 align="center">Requirements</h2>
+<h2 align="center">🛑 Requirements</h2>
 <ul>
   <li>Install Chocolatey Package Manager</li>
   <li>Python (Install the latest version)</li>
