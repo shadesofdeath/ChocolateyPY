@@ -171,9 +171,10 @@ class ChocolateyInstaller(QtWidgets.QWidget):
         lines = result.split('\n')
         packages = []
         for line in lines:
-            if line.startswith(package_name):
-                package = line.split(' ')[0]
-                packages.append(package)
+            if package_name.lower() in line.lower():
+                package = line.split(' ')[0].strip()
+                if package:
+                    packages.append(package)
 
         self.listWidget.clear()
         self.listWidget.addItems(packages)
